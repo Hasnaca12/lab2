@@ -1,3 +1,9 @@
+//Write a Java program to print the day of the week after 5 days of a given date without using the calendar class.
+
+
+
+
+
 import java.util.*;
 public class daysoftheweek
 {
